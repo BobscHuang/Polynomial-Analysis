@@ -22,7 +22,10 @@ Simply open "Polynomial_Analysis.pde" in the "Polynomial_Analysis" folder throug
 
 ## Screenshots
 
-To be added...
+<p align="center">
+<img src="images/001.png" width="48%" padding="30" />
+<img src="images/002.png" width="48%" />
+</p>
 
 ## Built With
 
